@@ -75,14 +75,6 @@ See [HOW_TO_GRADE_NEW_ASSIGNMENT.md](HOW_TO_GRADE_NEW_ASSIGNMENT.md) for rubric 
 
 ---
 
-## Demo
-
-Capture `python -m src.main sample_assignment --status` and save as `docs/images/status-dashboard.png`, then uncomment in a follow-up commit:
-
-`![Status dashboard](docs/images/status-dashboard.png)`
-
----
-
 ## Operational Scripts
 
 | Script | Purpose |
