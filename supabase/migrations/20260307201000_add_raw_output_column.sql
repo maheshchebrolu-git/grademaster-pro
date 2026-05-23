@@ -1,0 +1,2 @@
+ALTER TABLE grading_audit
+ADD COLUMN IF NOT EXISTS raw_output JSONB;
