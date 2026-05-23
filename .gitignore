@@ -1,0 +1,38 @@
+# Secrets and local config
+.env
+config.json
+
+# Browser session (Canvas login state)
+playwright_session/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env.local
+
+# IDE / tooling
+.idea/
+.vscode/
+*.swp
+
+# Supabase CLI temp
+supabase/.temp/
+supabase/.branches/
+
+# Assignment data (keep on disk, not in repo)
+prompts/solutions.pdf
+prompts/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and debug
+*.log
+
+# Local files
+GITHUB_REPO_SETUP.md
+COMMIT_PLAN.md
